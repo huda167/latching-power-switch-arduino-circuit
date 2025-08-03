@@ -1,0 +1,6 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"S1",1," Pushbutton"
+"D1",1,"Blue LED"
+"T1",1," Small Signal nMOS Transistor"
+"R1",1,"220 Ω Resistor"
